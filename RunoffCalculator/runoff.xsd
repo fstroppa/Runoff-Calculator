@@ -1,0 +1,27 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="allresults">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Toscana">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="results" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="city"/>
+                    <xs:element type="xs:float" name="precipitationTime"/>
+                    <xs:element type="xs:float" name="returnPeriod"/>
+                    <xs:element type="xs:float" name="area"/>
+                    <xs:element type="xs:float" name="runoffCoefficientC"/>
+                    <xs:element type="xs:float" name="precipitation"/>
+                    <xs:element type="xs:float" name="calculatedRunoff"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

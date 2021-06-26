@@ -1,0 +1,626 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>09-01-2021 12:01:13</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:01:14</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 12:01:19</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:01:21</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 12:01:57</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 12:01:59</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:02:01</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:02:09</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:02:11</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>09-01-2021 12:02:12</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 12:30:44</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:30:45</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 12:30:47</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:30:48</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 12:30:52</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 12:30:54</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:30:57</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:31:07</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:32:12</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 12:32:15</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:32:15</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>09-01-2021 12:37:05</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 12:37:07</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:37:11</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:51:37</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:52:21</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 12:54:52</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 12:55:41</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>exit</eventTag>
+  <date>09-01-2021 12:55:45</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>09-01-2021 12:57:26</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 12:57:28</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>exit</eventTag>
+  <date>09-01-2021 12:57:32</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 13:00:16</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 13:00:16</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>09-01-2021 13:07:26</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 13:07:38</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 13:07:39</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 13:07:40</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 13:07:41</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 13:07:44</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 13:07:45</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 13:07:48</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 13:10:43</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 13:10:45</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 13:10:46</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>09-01-2021 13:12:06</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 13:34:30</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 13:34:39</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 13:34:44</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 13:34:46</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 13:36:07</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 13:36:07</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 13:36:11</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 13:36:12</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 13:38:31</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 13:38:37</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 13:38:38</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 13:38:41</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 13:38:44</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 15:34:24</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 15:34:26</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>09-01-2021 15:34:27</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 15:34:29</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 15:34:35</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 15:34:36</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 15:36:02</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>09-01-2021 15:36:06</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 15:36:48</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>exit</eventTag>
+  <date>09-01-2021 15:36:50</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 15:36:55</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>09-01-2021 15:36:57</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 15:36:58</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>09-01-2021 15:37:01</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 15:37:07</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>09-01-2021 15:37:45</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>09-01-2021 15:37:45</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 15:38:18</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 15:38:19</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>exit</eventTag>
+  <date>09-01-2021 15:38:21</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 15:38:28</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>09-01-2021 15:38:32</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>09-01-2021 15:38:54</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 10:54:18</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 10:54:19</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>10-01-2021 10:54:37</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 10:54:37</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>10-01-2021 13:31:17</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 13:31:39</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 13:31:45</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 13:36:37</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 13:37:32</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 13:39:57</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 13:39:59</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 13:40:27</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 13:40:28</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:51:12</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:51:30</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:51:34</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:51:56</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>addRow</eventTag>
+  <date>10-01-2021 18:52:00</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>SavetoDataBase</eventTag>
+  <date>10-01-2021 18:52:13</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 18:52:16</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:16</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:22</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:23</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:24</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:24</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:25</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 18:52:27</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 18:52:27</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:28</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 18:52:34</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 18:52:36</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:38</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:40</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:41</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:42</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:43</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:44</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:45</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:46</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:46</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:52:47</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>removeRow</eventTag>
+  <date>10-01-2021 18:56:39</date>
+</Events>
+<Events>
+  <nameOfApplication>Runoff Calculator</nameOfApplication>
+  <eventTag>LoadFromDataBase</eventTag>
+  <date>10-01-2021 18:56:44</date>
+</Events>

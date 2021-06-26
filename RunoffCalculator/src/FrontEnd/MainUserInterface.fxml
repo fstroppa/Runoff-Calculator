@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.chart.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MiddleWare.InterfaceManager">
+    <GridPane alignment="center" hgap="10.0" vgap="10.0">
+       <columnConstraints>
+          <ColumnConstraints minWidth="10.0" prefWidth="200.0" />
+          <ColumnConstraints maxWidth="300.0" minWidth="10.0" prefWidth="175.0" />
+          <ColumnConstraints maxWidth="150.0" minWidth="0.0" prefWidth="125.0" />
+          <ColumnConstraints />
+       </columnConstraints>
+       <rowConstraints>
+          <RowConstraints maxHeight="300" minHeight="0.0" prefHeight="300" />
+          <RowConstraints maxHeight="125" minHeight="0.0" prefHeight="70.0" />
+          <RowConstraints maxHeight="300.0" minHeight="00" prefHeight="400" />
+       </rowConstraints>
+       <children>
+          <HBox prefHeight="100.0" prefWidth="288.0" GridPane.columnSpan="4" GridPane.rowIndex="1">
+             <children>
+                <Button fx:id="SavetoDataBase" mnemonicParsing="false" onAction="#savetoDataBase" prefHeight="25.0" prefWidth="200.0" text="Save to Database">
+                </Button>
+                <Button fx:id="LoadFromDataBase" mnemonicParsing="false" onAction="#loadfromDataBase" prefHeight="25.0" prefWidth="200.0" text="Load From Database">
+                </Button>
+                <Button fx:id="addRow" mnemonicParsing="false" onAction="#addRow" prefHeight="25.0" prefWidth="116.0" text="Add Row">
+                </Button>
+                <Button fx:id="removeRow" mnemonicParsing="false" onAction="#removeRow" prefHeight="25.0" prefWidth="150.0" text="Remove Row">
+                </Button>
+                <Button fx:id="exit" mnemonicParsing="false" onAction="#exit" prefHeight="25.0" prefWidth="62.0" text="Exit">
+                </Button>
+             </children>
+          </HBox>
+          <TableView fx:id="table" editable="true" prefHeight="500" prefWidth="840" GridPane.columnSpan="2147483647">
+            <columns>
+                <TableColumn fx:id="city" prefWidth="120" text="City" />
+                <TableColumn fx:id="precipitationTime" prefWidth="120" text="t (min)" />
+                <TableColumn fx:id="returnPeriod" prefWidth="120" text="TR (y)" />
+                <TableColumn fx:id="area" prefWidth="120" text="A (m²)" />
+                <TableColumn fx:id="runoffCoefficientC" prefWidth="120" text="C" />
+                <TableColumn fx:id="precipitation" prefWidth="120" text="P (mm)" />
+                <TableColumn fx:id="calculatedRunoff" prefWidth="120" text="Qcal (l/s)" />
+            </columns>
+          </TableView>
+          <BarChart fx:id="barChart" cache="true" title="Calculated Preciptations" GridPane.rowIndex="2" GridPane.columnSpan="4" legendVisible="false">
+            <xAxis>
+                <CategoryAxis fx:id="yAxis" side="BOTTOM" label="City, Return Period and Preciptation Duration"/>
+            </xAxis>
+            <yAxis>
+                <NumberAxis fx:id="xAxis" side="LEFT" label="Preciptation (mm)"/>
+            </yAxis>
+          </BarChart>
+       </children>
+    </GridPane>
+</AnchorPane>
